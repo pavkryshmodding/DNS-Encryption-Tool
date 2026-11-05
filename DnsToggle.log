@@ -1,0 +1,8 @@
+[--status]
+ON
+[--test]
+OK    example.com                    124 ms  104.20.23.154
+OK    wikipedia.org                   20 ms  198.35.26.224
+OK    github.com                      26 ms  140.82.116.4
+OK    microsoft.com                   24 ms  150.171.109.153
+DoH connection to Cloudflare: yes
